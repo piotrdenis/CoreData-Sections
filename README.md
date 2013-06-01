@@ -1,7 +1,7 @@
 Core Data + Sections for iOS
 =================
 
-<img width=320 src="https://github.com/piotrdenis/CoreData-Sections/raw/master/img/sections.png"/>
+<img width=320 src="https://github.com/piotrdenis/CoreData-Sections/raw/master/img/sections.PNG"/>
 
 Easy starting point for Core Data with automatic sections,
 based on the day of entry.
