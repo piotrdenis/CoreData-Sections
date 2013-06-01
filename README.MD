@@ -1,6 +1,7 @@
-Core Data + Sections
+Core Data + Sections for iOS
+=================
 
-![Sections](piotrdenis.github.com/repository/img/sections.PNG)
+<img width=320 src="https://github.com/piotrdenis/CoreData-Sections/master/img/sections.PNG"/>
 
 Easy starting point for Core Data with automatic sections,
 based on the day of entry.
